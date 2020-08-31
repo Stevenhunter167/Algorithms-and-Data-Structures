@@ -1,0 +1,10 @@
+Basics:
+Weighted Interval Scheduling
+Truck Loading
+0/1 Knapsack
+Optimal Matrix Multiplication
+
+Extras:
+subarray sum
+subset sum
+Maximum Square of Ones
